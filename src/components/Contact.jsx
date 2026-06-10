@@ -4,7 +4,7 @@ const contactInfo = [
   {
     icon: Phone,
     label: "Phone",
-    value: "+91 9506266925",
+    value: "+91 394303929203",
     color: "from-pink-500 to-rose-500",
   },
   {
